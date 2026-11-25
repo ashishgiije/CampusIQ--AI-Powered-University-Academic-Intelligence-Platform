@@ -1,0 +1,8 @@
+[
+  {"question":"What is the latest SPPU copy case punishment list?","category":"punishment","latest":true},
+  {"question":"SE insem winter timetable","category":"timetable","programme":"engineering","studyYear":"2","examType":"insem","session":"winter"},
+  {"question":"2019 pattern engineering exam schedule","category":"timetable","programme":"engineering","pattern":"2019"},
+  {"question":"exam unfair means punishment 2026","category":"punishment","year":"2026"},
+  {"question":"MCA semester IV syllabus 2025-26","category":"syllabus","programme":"mca","semester":"4","year":"2025-2026"},
+  {"question":"give me latest MCA second year time table and tell me when are my exams are starting","category":"timetable","programme":"mca","studyYear":"2","latest":true}
+]

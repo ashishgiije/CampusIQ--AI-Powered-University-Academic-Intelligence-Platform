@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+.venv/
+.deps/
+__pycache__/
+.pytest_cache/
+var/
+coverage/
+*service-account*.json
+firebase-adminsdk*.json
